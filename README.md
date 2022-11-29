@@ -4,12 +4,13 @@
 Project to automate the readme file creation
 
 # Table of Contents 
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[License](#license)
-  -[Contribute](#contribute)
-  -[Tests](#tests)
-  -[User](#user)
+  [Installation](#installation)
+  [Usage](#usage)
+  [License](#license)
+  [Contribute](#contribute)
+  [Tests](#tests)
+  [User](#user)
+  [Questions](#questions)
   
 # Installation
  Install node.js
@@ -19,7 +20,7 @@ Project to automate the readme file creation
 # Usage 
 In the terminal type node index.js
 Answer all questions
-Then after copy and paste into your readme and all done!
+Then after copy and paste into your readme and done
 
 # License
 N/A
